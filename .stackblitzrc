@@ -1,1 +1,4 @@
-{"installDependencies":true,"startCommand":"npm run test:watch"}
+{
+  "installDependencies": true,
+  "startCommand": "npm run test:watch"
+}
