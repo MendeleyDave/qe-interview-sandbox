@@ -14,7 +14,7 @@ The exercises use a fictional research assistant app. Scientists ask questions, 
 
 Users can export their saved references to a spreadsheet (CSV file). A developer wrote [`exercise-1/exportReferences.ts`](./exercise-1/exportReferences.ts), then asked an AI assistant to write the unit tests ([`exercise-1/exportReferences.test.ts`](./exercise-1/exportReferences.test.ts)) and review the code. **All the tests pass.**
 
-The tests run automatically in the terminal. To run them yourself: `npm test`
+To run the tests, type `npm test` in the terminal. The first run installs dependencies, which takes about 10 seconds.
 
 ### Your task
 
