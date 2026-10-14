@@ -12,7 +12,7 @@ The exercises use a fictional research assistant app. Scientists ask questions, 
 
 ## Exercise 1: Export to CSV (about 35 minutes)
 
-Users can export their saved references to a spreadsheet (CSV file). A developer wrote `src/exportReferences.ts`, then asked an AI assistant to write the unit tests (`src/exportReferences.test.ts`) and review the code. **All the tests pass.**
+Users can export their saved references to a spreadsheet (CSV file). A developer wrote [`exercise-1/exportReferences.ts`](./exercise-1/exportReferences.ts), then asked an AI assistant to write the unit tests ([`exercise-1/exportReferences.test.ts`](./exercise-1/exportReferences.test.ts)) and review the code. **All the tests pass.**
 
 The tests run automatically in the terminal. To run them yourself: `npm test`
 
@@ -20,7 +20,7 @@ The tests run automatically in the terminal. To run them yourself: `npm test`
 
 1. Review the module and the tests. Use AI if you want to.
 2. Tell us what each test actually proves, and anything you would change in the code or the tests.
-3. Read the developer's AI conversation in [`AI_CONVERSATION.md`](./AI_CONVERSATION.md). Would you rely on it? Why or why not?
+3. Read the developer's AI conversation in [`exercise-1/AI_CONVERSATION.md`](./exercise-1/AI_CONVERSATION.md). Would you rely on it? Why or why not?
 4. Improve or add tests for the cases you think matter most, and explain your priorities.
 5. Walk us through the final code and tests, including anything the AI wrote, and explain what each part does.
 
